@@ -9,5 +9,7 @@ package lapus;
  * @author jaut2
  */
 public class apus {
-    
+    public static void main(String[] args) {
+        System.out.println("lapus");
+    }
 }
